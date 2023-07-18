@@ -1,4 +1,5 @@
 # Installation
-1. Launch SimpleVID.py
-2. Enjoy!
+1. Download the script: 
+2. Launch SimpleVID.py
+3. Enjoy!
 
