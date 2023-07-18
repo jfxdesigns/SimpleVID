@@ -1,6 +1,6 @@
 # Resources used
-https://huggingface.co/cerspense/zeroscope_v2_576w
-https://www.pysimplegui.org/en/latest/
+- https://huggingface.co/cerspense/zeroscope_v2_576w
+- https://www.pysimplegui.org/en/latest/
 
 # Installation
 1. Download Files: https://github.com/jfxdesigns/SimpleVID/archive/refs/heads/main.zip 
