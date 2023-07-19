@@ -94,7 +94,7 @@ layout = [
 	[sg.Button('Cancel', size=(8, 1), font=('Arial Bold', 15), pad=(20, (10, 0))), sg.Button('Generate', size=(15, 1), font=('Arial Bold', 15), pad=(20, (10, 0)))]
  ]
 
-window = sg.Window('ZeroScope_UI', layout,size=(1028, 720), resizable=True, finalize=True)
+window = sg.Window('SimpleVID', layout,size=(1028, 720), resizable=True, finalize=True)
 
 while True:
 	event, values = window.read()
